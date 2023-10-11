@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
     s.name = "Core"
     s.summary = "Nunu Core.framework for modularization chapter"
     s.requires_arc = true
-    s.version = "1.0.0"
+    s.version = "1.0.3"
     s.license = { :type => "MIT", :file => "LICENSE" }
     s.author = { "Nunu Nugraha" => "nunutech4.0@gmail.com" }
     s.homepage = "https://github.com/nunutech40/Modularization-Core-Module"
